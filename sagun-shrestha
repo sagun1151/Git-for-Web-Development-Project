@@ -1,0 +1,41 @@
+    codepen code
+    https://codepen.io/sagun1151/pen/VwWgZXB?editors=1100
+    
+    
+    1. What is Semantic HTML?-introduces meaning to the webpage 
+    2. What is HTML used for? -a markup language/used as a blueprint for displaying info on the screen
+    3. What is an attribute and where do we put it?-used to define characteristics of an element
+    4. What is the h1 tag used for? How many times should I use it on a page?-a way to present the subject mater and once
+    5. Name two tags that have required attributes-a(anchor) and img
+    6. What do we put in the head of our HTML document?-title
+    7. What is an id?-identifies the element
+    8. What elements can I add an id to?-any 
+    9. How many times can I use the same id on a page?-once
+    10. What is a class?- an attribute which specifies one or more class name for an element 
+    11. What elements can I add a class to?- any
+    12. How many times can I use the same class on a page?-no limit 
+    13. How do I get my link to open in a new tab?-push
+    14. What is the alt attribute in the image tag used for?-adds text description 
+    15. How do I reference an id?-href="#idName"
+    16. What is the difference between a section and a div-section means content is grouped, dive does not have a meaning
+    17. What is CSS used for?-describing the presentation of web pages
+    18. How to we select an element? Example - every h2 on the page- elementName {}
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one- id is unique so it cam only be used on one element, id can be used to identafie select sections, class can be used for to describe something so when pulling it in css its easier to identify 
+    20. How do we select classes in CSS?-.className
+    21. How do we select a p element with a single class of “human””?-p .human{}
+    22. What is a parent child selector? When would this be useful?-element withing an element, parent is the main and the child is withing the parent, to call specfic 
+    23. How do you select all links within a div with the class of sidebar?- div .sidebar{}
+    24. What is a pseudo selector?- a selector that selects elemennts that are in a specific state
+    25. What do we use the change the spacing between lines?-line-height
+    26. What do we use to change the spacing between letters?-letter-spaceing
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?-text-transform
+    28. How do I add a 1px border around my div that is dotted and black?-div{border: dotted 1px black}
+    29. How do I select everything on the page?*{} 
+    30. How do I write a comment in CSS?/**/
+    31. How do I find out what file I am in, when I am using the command line?-pwd
+    32. Using the command line - how do I see a list of files/folders in my current folder?-ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this?-rm, cant type in the wrong thins, once its typed its done
+    34. Why should I use version control?-keep track of changes also a backup 
+    35. How often should I commit to github?-every 20 minutes
+    36. What is the command we would use to push our repo up to github?-git push -u orgin 
+    37. Walk me through Lambda's git flow.- fork the git, copy the git, git clone, cd into the git, make a branch,start the code, git add, git commit, sit ppush, pull request, choose the repository as the base, make sure you ar compairing master or main the sumit the url for the pull request in canvas 
